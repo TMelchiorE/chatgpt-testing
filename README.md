@@ -2,5 +2,5 @@
 
 
 ```
-node chatjpt.js c='ask some question'
+node chatjpt.js c='chat question'
 ```
